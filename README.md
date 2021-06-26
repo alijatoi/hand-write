@@ -1,5 +1,5 @@
 # hand-write
-Hand gesture recognition based whiteboard that allows you to write on live webcam. This is the first version and has features like 4 different colors, eraser and a recording option that records your session and saves it in a "Recordings" folder. Use index finger to draw and two or more fingers to move around and select items. Future version will contain more functionalities like changeable thickness, color palette, integration with zoom and google meet  etc.
+Hand gesture recognition based whiteboard that allows you to write on live webcam. This is the first version and has features like 4 different colors, eraser and a recording option that records your session and saves it in a "Recordings" folder. Use index finger to draw and two or more fingers to move around and select items. Future version will contain more functionalities like changeable thickness, color palette, integration with Zoom, google meet and different online video conferencing tools etc.
 
 ### Libaries Required to be installed. 
 
