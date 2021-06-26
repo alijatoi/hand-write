@@ -9,3 +9,4 @@ Hand gesture recognition based whiteboard that allows you to write on live webca
 ### 2: msvc-runtime
 ### Installation Command :  pip install msvc-runtime
 
+### Contributions will really be highly appreciated.
